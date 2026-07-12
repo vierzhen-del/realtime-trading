@@ -1,5 +1,7 @@
 # realtime-trading
 
+> **⚠️ 이 프로젝트는 [vierzhen-del/14fiance](https://github.com/vierzhen-del/14fiance) 레포의 `realtime-trading/` 서브디렉토리로 통합되었습니다** (2026-07-12, 커밋 이력 보존 subtree 병합). 이후 개발은 14fiance 쪽에서 진행되며, 이 레포는 더 이상 갱신되지 않습니다.
+
 개인 투자 종목(비트코인 · 미국 반도체 지수 · 코스피/삼성전자/SK하이닉스) 실시간 트레이딩 대시보드 프로젝트.
 
 ## 문서
